@@ -32,12 +32,14 @@ export default {
 
 .table {
   display: flex;
+  background-color: #f5f5;
 }
 
 .column {
   flex: 1;
   padding: 10px;
   box-sizing: border-box;
+  background-color: #f5f5;
 }
 
 .column-1 {

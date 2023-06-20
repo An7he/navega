@@ -13,6 +13,7 @@
           <div class="text-left">2.	Ver propiedades del administrador: 
   Los administradores pueden cambiar la configuración de segur idad, instalar software y hardware, obtener acceso a todos los archivos del equipo y realizar cambios en otras cuentas de usuario. 
           </div>
+          <a href="https://learn.microsoft.com/es-es/troubleshoot/windows-server/deployment/use-device-manager-configure-devices " target="_blank">¿Quieres aprender más sobre las propiedades del administrador? Da click aquí</a>
           <div class="text-left">3.	Optimizar el inicio de arranque:
   Un "arranque limpio" inicia Windows con un conjunto mínimo de controladores y programas de inicio, para que puedas determinar si un programa en segundo plano interfiere con el juego o programa.
           </div>
@@ -35,6 +36,7 @@
           </div>
           <div class="text-left">10.	Quitar los efectos especiales: Si algo caracteriza a las últimas versiones de Windows son sus efectos visuales, efectos al abrir aplicaciones, cerrarlas, cambiar de una a otra, transparencias, miniaturas… todo tipo de efectos que, aunque hacen que el sistema operativo sea bonito, en realidad supone un gasto de recursos</div>
           <div class="text-left">11.	SECRET DISK: Disco secreto: Es una herramienta que crea un disco virtual en Mi PC.</div>
+          <a href="https://privacyroot.com/apps/freeware/tools-es-about-sede-.php 			 " target="_blank">¿Quieres aprender más sobre Secret Disk: Disco Secreto? Da click aquí</a>
           <div class="text-left">12.	Crear carpeta MODO DIOS: Muestra la configuración del Panel de control de forma clara en una lista y simplifica todo mediante un acceso directo en el escritorio.</div>
           <div class="text-left">13.	DESACTIVAR ARCHIVOS DE VOLCADO DE MEMORIA: Los archivos de volcado contienen los datos raw que se generan en el momento en que se bloquea el programa del equipo. Estos archivos también se denominan archivos de volcado por caída, volcados de memoria o volcados del sistema.</div>
           <div class="text-left">14.	Reducir o extender una partición en el disco duro: Una partición es una sección virtual de una unidad de disco duro (HDD, por sus siglas en inglés) o unidad de estado sólido (SSD, por sus siglas en inglés). El sistema operativo del ordenador trata a cada partición como zona de almacenamiento independiente y normalmente asigna una letra de unidad a ella.</div>
@@ -55,6 +57,7 @@
           MsInfo32
           </div>
           <div class="text-left">19.	UTILIDADES DE WINDOWS: WINDOWS + R   cmd la ventana de comandos</div>
+          <a href="https://learn.microsoft.com/es-es/visualstudio/ide/reference/command-window?view=vs-2022 " target="_blank">¿Quieres aprender más sobre la Ventana de Comandos? Da click aquí</a>
           <div class="text-left">20.  Instalar Máquina Virtual. Equipos virtuales o equipos definidos por
           software dentro de servidores físicos, donde solo existen como código.
           </div>
@@ -394,6 +397,11 @@ Y LISTO YA SE ENCUENTRA INSTALADO
             <img src="../assets/ub20.png" alt="">
           </div>
         </template>
+    </Columnas>
+    <Columnas>
+      <template #col1>
+        <a href="https://www3.gobiernodecanarias.org/medusa/ecoescuela/seguridad/ciudadania-y-seguridad-tic/principios-legales/software-libre/ubuntu-linux/ " target="_blank">¿Quieres aprender más sobre el Sistema Operativo Ubuntu? Da click aquí</a>
+      </template>
     </Columnas>
     <div class="d-flex justify-content-center align-items-center py-5">
       <div>

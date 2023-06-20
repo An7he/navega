@@ -92,7 +92,7 @@
       </template>
       <template #col2>
           <div class="wrapper-img">
-            <img src="../assets/cd.jpg" alt="">
+            <img src="../assets/modem.jpg" alt="">
           </div>
         </template>
     </Columnas>
@@ -226,12 +226,13 @@ Sabemos que han existido otros puertos en la historia, algunos de ellos relacion
       <template #col1>
         <h4 class="text-left">Unidades de Almacenamiento</h4>
         <div class="text-left">GigaByte (GB) y megabytes (MB) y Terabytes (TB) son las medidas más utilizadas a la hora de hablar de la capacidad de un dispositivo electrónico. Para comenzar, tenemos que conocer que la unidad básica de almacenamiento en informática es el bit abreviación de Binary Digit (dígito binario). Es la unidad más pequeña y tiene capacidad para almacenar únicamente dos estados diferentes: Si (1) o No (0), Verdadero (1) o Falso (0), etc. Un error muy común es confundir el bit con el byte y no nos confundamos, no es lo mismo, un byte está compuesto por un total 8 bits. Múltiples bits mezclados entre sí dan origen a diferentes unidades de medida como “mega”, “tera”, y “giga”.</div>
+        <a href="https://www.ibm.com/docs/es/storage-insights?topic=overview-units-measurement-storage-data" target="_blank">¿Quieres aprender más sobre las unidades de almacenamiento? Da click aquí</a>
+            <div class="py-3">
+              <iframe width="640" height="320" src="https://www.youtube.com/embed/8co2ADsKOUo" title="Unidades de Almacenamiento [ INFORMÁTICA 👊]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
       </template>
       <template #col2>
           <div class="wrapper-img">
-            <div>
-              <iframe width="240" height="160" src="https://www.youtube.com/embed/8co2ADsKOUo" title="Unidades de Almacenamiento [ INFORMÁTICA 👊]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
             <img src="../assets/unidades.png" alt="">
           </div>
         </template>
@@ -278,13 +279,14 @@ Sabemos que han existido otros puertos en la historia, algunos de ellos relacion
         <div class="text-left">CPU-Z tiene la capacidad de detectar directamente características de hardware, como la capacidad de acceder, leer y mostrar los datos SPD (incluidos el fabricante, la fecha de fabricación y el número de pieza) de los módulos de memoria, que pueden ser invaluables para aquellos que buscan agregar o reemplazar la memoria.
 La capacidad de documentar la velocidad del reloj lo convierte en una herramienta para overclockers, como una forma de probar las velocidades de CPU alcanzadas por varios experimentos. Si quieres aprender más sobre la CPU-Z, como dónde descargarlo y cómo usarlo, así como aprender a leer la información que proporciona esta herramienta de detección gratuita.
 </div>
-      </template>
+<a href="https://cpu-z.uptodown.com/windows#:~:text=CPU%2DZ%20permite%20conocer%20detalles,modelos%20exactos%2C%20y%20mucho%20m%C3%A1s. " target="_blank">¿Quieres aprender más sobre CPU-Z? Da click aquí</a>
+            <div class="py-3">
+              <iframe width="640" height="320" src="https://www.youtube.com/embed/DLGfLPFjmfQ" title="CPU-Z 2021 SABER INFORMACIÓN DETALLADA DE TU PC [PROCESADOR, RAM, TARJETA GRÁFICA, ETC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>      
+</template>
       <template #col2>
           <div class="wrapper-img">
             <img src="../assets/cpuz.png" alt="">
-            <div>
-              <iframe width="240" height="160" src="https://www.youtube.com/embed/DLGfLPFjmfQ" title="CPU-Z 2021 SABER INFORMACIÓN DETALLADA DE TU PC [PROCESADOR, RAM, TARJETA GRÁFICA, ETC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
           </div>
         </template>
     </Columnas>
@@ -307,7 +309,10 @@ La capacidad de documentar la velocidad del reloj lo convierte en una herramient
         <div class="text-left">•	MEMORIA CACHÉ.
         Smart Caché. Facilita procesos, es una memoria rápida y ayuda a que el proceso tenga mayor rendimiento, 100 veces más rápida que la RAM estándar.
         </div>
-
+        <a href="https://concepto.de/procesador/ " target="_blank">¿Quieres aprender más sobre el procesador? Da click aquí</a>
+        <div class="py-3">
+              <iframe width="640" height="320" src="https://www.youtube.com/embed/Jm46yR3WyaQ" title="Que son los Núcleos, Hilos, GHz, Caché... de un CPU? | Explicado fácil y con ejemplos | Procesador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
       </template>
       <template #col2>
           <div class="wrapper-img">
@@ -315,9 +320,6 @@ La capacidad de documentar la velocidad del reloj lo convierte en una herramient
               <iframe width="240" height="160" src="https://www.youtube.com/embed/IG-qGZDFjJA" title="El procesador |  | UPV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
             <img src="../assets/prpartes.jpg" alt="">
-            <div>
-              <iframe width="240" height="160" src="https://www.youtube.com/embed/Jm46yR3WyaQ" title="Que son los Núcleos, Hilos, GHz, Caché... de un CPU? | Explicado fácil y con ejemplos | Procesador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
           </div>
         </template>
     </Columnas>
@@ -385,13 +387,12 @@ De ella salen muchos cables que van hacia varios componentes de la PC, tales com
 Las fuentes de poder actuales son conmutadas y con voltaje dual, por lo que satisfacen dos modos de funcionamiento diferentes: mientras el equipo se encuentra operativo y en modo stand by.
 El aire de su ventilador o cooler pasa por la tarjeta madre, lo cual favorece la temperatura del equipo completo y tiene un sonido característico.
 </div>
-
+            <div class="py-3">
+              <iframe width="640" height="320" src="https://www.youtube.com/embed/zPhwSzDniK0" title="Que es una ups y para que sirve 😱 Sistema de alimentación ininterrumpida ✅" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
       </template>
       <template #col2>
-          <div class="wrapper-img">
-            <div>
-              <iframe width="240" height="160" src="https://www.youtube.com/embed/zPhwSzDniK0" title="Que es una ups y para que sirve 😱 Sistema de alimentación ininterrumpida ✅" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
+          <div class="wrapper-img">  
             <img src="../assets/fp.jpg" alt="">
           </div>
         </template>
@@ -511,6 +512,13 @@ El aire de su ventilador o cooler pasa por la tarjeta madre, lo cual favorece la
             <img src="../assets/e9.png" alt="">
           </div>
         </template>
+    </Columnas>
+    <Columnas>
+      <template #col1>
+        <div class="text-left">
+          <a href="https://www.tecnologia-informatica.com/como-armar-pc-ensamblaje/" target="_blank">¿Quieres aprender más sobre el Ensamble de una Pc? Da click aquí</a>
+        </div>
+      </template>
     </Columnas>
     <div class="d-flex justify-content-center align-items-center py-5">
       <div>
@@ -637,6 +645,7 @@ El aire de su ventilador o cooler pasa por la tarjeta madre, lo cual favorece la
           <h5 class="text-left py-3">Los conectores jacks</h5>
           El conector de audio analógico (plug en inglés para señalar al conector macho, o jack para señalar al conector hembra de este tipo) de señales analógicas se utiliza para conectar micrófonos, auriculares y otros sistemas de señal analógica a dispositivos electrónicos, aunque sobre todo audio.
         </div>
+        <a href="https://www.hp.com/mx-es/shop/tech-takes/que-tipos-de-puertos-suelen-tener-las-computadoras-de-escritorio" target="_blank">¿Quieres aprender más sobre los Puertos de la PC? Da click aquí</a>
       </template>
       <template #col2>
           <div class="wrapper-img">

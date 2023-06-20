@@ -8,6 +8,7 @@
 Más que nada el mantenimiento preventivo en el hardware consiste en la limpieza de todos los componentes de nuestra computadora como lo es el gabinete, el teclado y el mouse y todos sus componentes.
 Esto es debido a que el polvo puede dañar el buen funcionamiento de nuestro equipo y más si no se toman las medidas necesarias para cuidar y mantener nuestro equipo de cómputo en buen estado. Para realizar el mantenimiento debemos de utilizar unas herramientas de limpieza y herramientas para poder abrir nuestros componentes. 
 </div>
+<a href="http://273878749846005358.weebly.com/mantenimiento-preventivo-a-hardware.html " target="_blank">¿Quieres aprender más sobre el Mantenimiento Preventivo? Da click aquí</a>
       </template>
       <template #col2>
           <div class="wrapper-img">
@@ -86,12 +87,12 @@ Mantenimiento programado: Se realizan por tiempo, kilómetros u horas de funcion
 Mantenimiento predictivo: Es realizado al final del período estimado máximo de utilización.
 Mantenimiento de oportunidad: Se aprovecha el período en el que no se está utilizando el equipo para realizar el mantenimiento y evitar cortes de producción.
 </div>
+<div class="py-3">
+  <iframe width="640" height="320" src="https://www.youtube.com/embed/8FuwUuQfRcs" title="Mantenimiento preventivo PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
       </template>
       <template #col2>
           <div class="wrapper-img">
-            <div>
-              <iframe width="240" height="160" src="https://www.youtube.com/embed/8FuwUuQfRcs" title="Mantenimiento preventivo PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
             <img src="../assets/corr.png" alt="">
           </div>
         </template>
@@ -107,7 +108,7 @@ La siguiente tarea, es la sustitución de componentes dañados o software. En al
 Después de realizar el mantenimiento correctivo, un técnico informático verifica el fallo del sistema. Esto puede hacerse en varias etapas; por ejemplo, para confirmar que el sistema está funcionando lentamente antes de que la sobrecarga de tareas. La verificación es muy importante sobre los equipos que se envíen al laboratorio de Tecnofim para su posterior reparación, ya que los técnicos deben de estar seguros de que cuando se envíen de vuelta, los usuarios/clientes estarán satisfechos con el nivel de los trabajos realizados sobre la reparación.
 
 Para algunos sistemas antiguos, puede tener más sentido recurrir a operaciones de mantenimiento correctivo. En determinadas ocasiones, y no siempre, el mantenimiento preventivo puede ser costoso, y con estos sistemas, no puede tener sentido, ya que puede ser más rentable simplemente reparar componentes informáticos sobre la marcha. Pero también hay que decir, que con un e mantenimiento preventivo puede ahorrar dinero a largo plazo y extender la vida útil de su equipamiento informático mediante la prevención de fallos en dicho equipamiento tanto como sea posible antes de que sucedan.
-
+<a href="https://www.stelorder.com/blog/mantenimiento-correctivo/ " target="_blank">¿Quieres aprender más sobre el Mantenimiento Correctivo? Da click aquí</a>
 <h4 class="text-left py-5">TIPOS DE MANTENIMIENTO CORRECTIVOS</h4>
 Mantenimiento correctivo NO PLANEADO
 Este tipo de mantenimiento se origina cuando se corrige el fallo que presenta nuestro sistema informático, pero como su nombre lo indica este es no planeado, por lo que el fallo aparece cuando no se espera, a veces no sabemos el origen  de porque se presenta dicho fallo 
@@ -118,12 +119,13 @@ Este tipo de mantenimiento se origina cuando se solucionan los fallos en el equi
 <h4 class="text-left py-3">Mantenimiento Correctivo de EMERGENCIA</h4>
 En este tipo de mantenimiento se corrigen los fallos informáticos con hechos ciertos, caracterizado porque se debe de actuar de forma rápida y eficiente, ya que el problema o fallo lo requiere. 
 </div>
+<div class="py-3">
+  <iframe width="640" height="320" src="https://www.youtube.com/embed/mRPRYk7P4EE" title="Mantenimiento correctivo a PC para principiantes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
       </template>
       <template #col2>
           <div class="wrapper-img">
-            <div>
-              <iframe width="240" height="160" src="https://www.youtube.com/embed/mRPRYk7P4EE" title="Mantenimiento correctivo a PC para principiantes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
+
             <img src="../assets/preven.jpg" alt="">
             <img src="../assets/img1.jpg" alt="">
             <img src="../assets/img2.jpg" alt="">
@@ -143,6 +145,7 @@ En este tipo de mantenimiento se corrigen los fallos informáticos con hechos ci
         <div class="text-left">Básicamente consiste en la limpieza física interna y externa del equipo de cómputo. Así mismo los procedimientos que se deben aplicar para el cuidado de las máquinas del medio ambiente, como dispositivos para protección de las sobrecargas eléctricas, contra las altas temperaturas y o las excesivas vibraciones.</div>
         <h4 class="text-left py-3">Mantenimiento preventivo pasivo</h4>
         <div class="text-left">Este tipo de mantenimiento preventivo se encarga de atender a los equipos de forma externa, ofreciéndole un excelente ambiente físico y eléctrico para prevenir fallos causados.</div>
+        <a href="https://mobility-work.com/es/blog/mantenimiento-preventivo/ " target="_blank">¿Quieres aprender más sobre los tipos de Mantenimiento Preventivo? Da click aquí</a>
         <h4 class="text-left py-3">Mantenimiento preventivo activo del hardware</h4>
         <div class="text-left">El objetivo del mantenimiento activo es limpiar de forma periódica los equipos para evitar su  deterioro por causa de factores como el polvo y la suciedad.</div>
         <h4 class="text-left py-3">Concepto ¿Cuándo se le debe dar mantenimiento preventivo al equipo?</h4>
@@ -233,14 +236,11 @@ La pauta para garantizar el rendimiento operativo óptimo de la computadora incl
         <div class="text-left">•	El cable con el circuito, lo colocamos con mucho cuidado.</div>
         <div class="text-left">•	La base de plástico también se coloca con cuidado, y luego las gomas.</div>
         <div class="text-left">•	Finalmente volvimos a colocar las llaves.</div>
+        <a href="https://informatica938057095.wordpress.com/2017/11/27/1-9-aplicar-normas-de-seguridad-e-higiene/ " target="_blank">¿Quieres aprender más sobre las Medidas de Seguridad? Da click aquí</a>
+        <div class="py-3">
+          <iframe width="640" height="320" src="https://www.youtube.com/embed/UK0n6F2csOQ" title="MANTENIMIENTO PREVENTIVO (Medidas de seguridad)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
       </template>
-      <template #col2>
-          <div class="wrapper-img">
-            <div>
-              <iframe width="240" height="160" src="https://www.youtube.com/embed/UK0n6F2csOQ" title="MANTENIMIENTO PREVENTIVO (Medidas de seguridad)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
-          </div>
-        </template>
     </Columnas>
     <Columnas>
       <template #col1>

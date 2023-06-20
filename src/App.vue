@@ -17,7 +17,6 @@ export default {
 </script>
 
 <style lang="scss">
-
 body {
   ul {
     list-style-type: none !important;
@@ -26,7 +25,10 @@ body {
 }
 
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  h2, h3, h4, h5{
+    font-family: College, sans-serif;
+  }
+  font-family: Sunshine, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #100a21;
